@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+F:\Work\SYSU_2.1\GameClub\2018Game\code\2018Adventure\Adventure\.metadata\.plugins\org.eclipse.jdt.core
